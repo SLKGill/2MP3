@@ -1,2 +1,2 @@
 # 2MP3 
-Learning C and C++.
+Learning C and C++ through generic assignment questions.
